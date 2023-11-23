@@ -1,0 +1,30 @@
+query TechnologiesList {
+  technologies {
+    id
+    image {
+      width
+      height
+      url
+    }
+  }
+}
+
+query ToolsList {
+  tools {
+    id
+    name
+  }
+}
+
+query ProjectsList {
+  projects {
+    id
+    title
+    description
+    github
+    tools {
+      id
+      name
+    }
+  }
+}
