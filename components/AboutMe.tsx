@@ -27,13 +27,13 @@ export const AboutMe = ({ tools }: Props) => {
             I&apos;m <span className="text-sky-400">Konrad Raszuk</span>
           </p>
           <p className="text-md md:text-xl text-white">
-            I&apos;ve been coding for 4 years. I&apos;m self taught developer
-            who loves to build full-stack applications and learning about new
+            I&apos;ve been coding for 1 year. I&apos;m self taught developer who
+            loves to build frontend applications and learning about new
             technologies.
           </p>
           <p className=" text-md md:text-xl text-white">
-            When I&apos;m not coding, I like to go to the gym, play games, read
-            books and hang out with my friends.
+            Besides coding, I&apos;m intrested in photography, car cruising and
+            bicycles tricks.
           </p>
           <p className=" text-md md:text-xl text-white">
             My favorite tools to work with:

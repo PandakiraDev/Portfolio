@@ -12,14 +12,14 @@ export const Header = (props: Props) => {
         Konrad Raszuk
       </h1>
       <h2 className="bg-gradient-to-r from-sky-400 to-cyan-300 text-transparent text-3xl md:text-6xl bg-clip-text font-extrabold tracking-wide">
-        full-stack developer wannabe
+        front-end developer wannabe
       </h2>
       <div className="space-y-2 p-4">
         <p className="text-white text-md md:text-xl">
           I like to build modern web applications using react.
         </p>
         <p className="text-white text-md  md:text-xl">
-          I&apos;m also very passionate about graphql.
+          I&apos;m also very passionate about CSS.
         </p>
         <p className="text-white text-md  md:text-xl">
           Currently, I&apos;m looking for a job as a junior frontend developer.
