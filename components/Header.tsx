@@ -19,7 +19,7 @@ export const Header = (props: Props) => {
           I like to build modern web applications using react.
         </p>
         <p className="text-white text-md  md:text-xl">
-          I&apos;m also very passionate about CSS.
+          I&apos;m also very passionate about JavaScript.
         </p>
         <p className="text-white text-md  md:text-xl">
           Currently, I&apos;m looking for a job as a junior frontend developer.
